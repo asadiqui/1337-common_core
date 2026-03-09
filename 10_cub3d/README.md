@@ -4,6 +4,8 @@
 This project explores the fascinating foundational concepts behind typical early 90s FPS 3D engines, directly inspired dynamically by the classical masterpiece "Wolfenstein 3D".
 The objective firmly rests explicitly on creating a realistic pseudo-3D perspective inherently relying structurally upon robust 2D mathematics (Raycasting).
 
+https://github.com/user-attachments/assets/5f5ab403-9efd-4525-b717-d427f6e7b091
+
 ## 🎮 Engine Parameters
 - **Raycasting:** Firing a structural mathematical "ray" specifically originating from the localized player position distinctly out across each sequential horizontal screen column correctly extrapolating 3D localized distances recursively intersecting specifically onto 2D matrix grids actively. 
 - **Texturing:** Mapping actively localized graphical image pixels fluidly structurally directly atop the mathematically rendered wall boundaries properly corresponding accurately to precise cardinal collision directions natively (North, South, East, West).
