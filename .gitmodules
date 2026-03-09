@@ -1,0 +1,18 @@
+[submodule "11_netPractice"]
+	path = 11_netPractice
+	url = https://github.com/asadiqui/netPractice
+[submodule "12_oop1"]
+	path = 12_oop1
+	url = https://github.com/asadiqui/Object-Oriented-Programming-I
+[submodule "13_oop2"]
+	path = 13_oop2
+	url = https://github.com/asadiqui/Object-Oriented-Programming-II
+[submodule "14_inception"]
+	path = 14_inception
+	url = https://github.com/asadiqui/Inception
+[submodule "15_ircSrev"]
+	path = 15_ircSrev
+	url = https://github.com/asadiqui/ircserv
+[submodule "16_transcendence"]
+	path = 16_transcendence
+	url = https://github.com/asadiqui/MedBook
